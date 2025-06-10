@@ -12,7 +12,7 @@ Aplicação desktop para gerenciamento de contatos pessoais, desenvolvida com Ja
 - ContatoModel.java: Camada de acesso a dados (DAO) com operações CRUD
 - AgendaContatos.java: Classe principal que inicia a aplicação
 
-#### Componentes principais
+#### Funcionalidades principais
 
 - Cadastro, edição e exclusão de contatos
 - Listagem completa de contatos 
@@ -48,6 +48,7 @@ git clone https://github.com/seu-usuario/AGENDA_PESSOAL
 ```
 
 ### 🛠️ Funcionalidades Implementadas
+
 CRUD completo:
 - Create: adicionarContato()
 - Read: listarContatos()
